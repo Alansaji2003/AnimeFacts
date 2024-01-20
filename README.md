@@ -18,15 +18,11 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/your-username/your-project.git
    cd your-project
 
-    Install Dependencies: npm install
+2. **Install Dependencies:** 
+    
+    npm install
 
-
-
-
-
-
-Run the Project:
-
+3. **Run the Project:**
 bash
 
     node index.js
