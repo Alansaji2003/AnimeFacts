@@ -15,8 +15,9 @@ Make sure you have the following installed on your machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Alansaji2003/AnimeFacts.git
    cd your-project
+   git clone https://github.com/Alansaji2003/AnimeFacts.git
+   
 
 2. **Install Dependencies:** 
     ```bash
