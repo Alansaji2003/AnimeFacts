@@ -1,7 +1,7 @@
 
 # AnimeFacts
 
-Brief project description and purpose.An anime information website to get information of all the animes. Made with node.js and Anilist API (GraphQL)
+An anime information website to get information of all the animes. Made with node.js and Anilist API (GraphQL).
 
 ## Prerequisites
 
@@ -19,12 +19,12 @@ Make sure you have the following installed on your machine:
    cd your-project
 
 2. **Install Dependencies:** 
-    
+    ```bash
     npm install
 
 3. **Run the Project:**
-bash
 
+    ```bash
     node index.js
 
 Your application should now be running. Open your web browser and visit http://localhost:3000 (or the specified URL if different).
