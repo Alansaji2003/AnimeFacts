@@ -28,17 +28,7 @@ Make sure you have the following installed on your machine:
     ```bash
     node index.js
 
-Your application should now be running. Open your web browser and visit http://localhost:3000 (or the specified URL if different).
+Your application should now be running. Open your web browser and visit http://localhost:3000.
 
 
-
-Additional Information
-
-Any additional information, usage guidelines, or notes about your project can be added here.
-Contributing
-
-If you'd like to contribute to this project, please follow the Contributing Guidelines.
-License
-
-This project is licensed under the License Name - see the LICENSE.md file for details.
 
